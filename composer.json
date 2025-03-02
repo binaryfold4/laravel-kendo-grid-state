@@ -17,13 +17,17 @@
     {
       "name": "Zura Gabievi",
       "email": "zura.gabievi@gmail.com"
+    },
+    {
+      "name": "Greg Heafield",
+      "email": "greg@binaryfold4.com"
     }
   ],
   "require": {
-    "php": "^7.1",
-    "illuminate/database": "^5.6",
-    "illuminate/http": "^5.6",
-    "illuminate/support": "^5.6"
+    "php": ">=7.1",
+    "illuminate/database": ">=5.6",
+    "illuminate/http": ">=5.6",
+    "illuminate/support": ">=5.6"
   },
   "require-dev": {
     "illuminate/routing": "^5.6",
